@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754098618689",
+    "project_id": "fcm-ptp-online-1adc1",
+    "storage_bucket": "fcm-ptp-online-1adc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754098618689:android:b6265a0f6990968fa221c0",
+        "android_client_info": {
+          "package_name": "com.example.flutterfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754098618689-2820k7jc2ctnoecp9hh5mb3ko32o579i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWsRXPhRenbFIm4FUWRZnblfw5Zuf080"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754098618689-2820k7jc2ctnoecp9hh5mb3ko32o579i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
